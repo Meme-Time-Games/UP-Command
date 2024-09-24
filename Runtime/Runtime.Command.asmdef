@@ -1,5 +1,5 @@
 {
-    "name": "Runtime",
+    "name": "Runtime.Command",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
