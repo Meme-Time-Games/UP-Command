@@ -4,9 +4,4 @@
     {
         void Execute();
     }
-
-    public interface ICommand<TType>
-    {
-        void Execute(TType parameter);
-    }
 }
